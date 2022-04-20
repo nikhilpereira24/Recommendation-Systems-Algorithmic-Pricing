@@ -1,4 +1,4 @@
-# Data People Systems at Cornell Tech
+# Data People Systems
 
 Course Description: Data science is often both about people (data of behavior), and for people (deployed models to influence behavior). Whether for online marketplaces, transportation, governmental, urban, or other socio-technical systems, effective data science in such settings requires dealing with user incentives and strategic behavior, networked and decentralized decision-making, and feedback loops between deployed models and future data. This course is about all the ways introductory statistics/data science/machine learning fails when deployed in such systems, and how to nonetheless build effective systems.
 
