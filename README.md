@@ -9,6 +9,8 @@ https://orie5355.github.io/Fall_2021/
 
 This project goal was to learn how to price in a competitive environment. Our professor had hidden customer evaluations for two items. The goal was to outcompete competition by learning their strategy and undercutting them. To do this we developed predictive ratings to craft personalized recommendation systems with matrix factorization. Dealt with real-world implications: cold start/missing data, capacity constraints and matching in 2-sided marketplaces. Priced under uncertainty by estimating demand using dynamic programming for over-time pricing problems. Trained ML models to predict price and developed a strategy to undercut competitors. 
 
+![image](https://user-images.githubusercontent.com/89815451/164126129-6114f0b8-941d-4848-9779-e6e203453cf9.png)
+
 
 
 ## Homework 1 Survey Weighting
@@ -20,7 +22,8 @@ Learned weighting methods marginal, 2-dimensional joint distribution weighting) 
 
 Generating predictions, using K-means to solve the cold start problem for new users, and devloped matrix factorization to generate recommendations among user/item vectors. Explored recommendations under capacity constraints.
 
-![image](https://user-images.githubusercontent.com/89815451/164125506-706d588a-fa2c-4a73-bbeb-a91bbfab49c3.png)
+![image](https://user-images.githubusercontent.com/89815451/164125981-b675a11a-ef27-404a-a12e-f95de72fe352.png)
+
 
 
 ## Homework 3 Algorithmic Pricing
