@@ -1,2 +1,30 @@
-# Recommendation_Systems_Algorithmic_Pricing
-Developed predictive ratings to craft personalized recommendation systems with matrix factorization. Dealt with real-world implications: cold start/missing data, capacity constraints and matching in 2-sided marketplaces. Priced under uncertainty by estimating demand using dynamic programming for over-time pricing problems. Worked with data and deployed decision-making models in socio-technical systems; handling user incentives and strategic behavior, networked and decentralized decision-making, and feedback loops between deployed models and future data.
+# Data People Systems at Cornell Tech
+
+Course Description: Data science is often both about people (data of behavior), and for people (deployed models to influence behavior). Whether for online marketplaces, transportation, governmental, urban, or other socio-technical systems, effective data science in such settings requires dealing with user incentives and strategic behavior, networked and decentralized decision-making, and feedback loops between deployed models and future data. This course is about all the ways introductory statistics/data science/machine learning fails when deployed in such systems, and how to nonetheless build effective systems.
+
+https://orie5355.github.io/Fall_2021/
+
+## Recommendation system and algorithmic pricing project
+
+
+This project goal was to learn how to price in a competitive environment. Our professor had hidden customer evaluations for two items. The goal was to outcompete competition by learning their strategy and undercutting them. To do this we developed predictive ratings to craft personalized recommendation systems with matrix factorization. Dealt with real-world implications: cold start/missing data, capacity constraints and matching in 2-sided marketplaces. Priced under uncertainty by estimating demand using dynamic programming for over-time pricing problems. Trained ML models to predict price and developed a strategy to undercut competitors. 
+
+
+
+## Homework 1 Survey Weighting
+
+Learned weighting methods marginal, 2-dimensional joint distribution weighting) on the Florida election data for 2016 presidential election. Understood key mistakes from Clinton campaign and where errors arise due to silent Trump vote.
+
+## Homework 2 Recommendation systems
+
+Generating predictions, using K-means to solve the cold start problem for new users, and devloped matrix factorization to generate recommendations among user/item vectors. Explored recommendations under capacity constraints.
+
+## Homework 3 Algorithmic Pricing
+
+Explored and implemented demand estimation and pricing with a logistic regression model with and without covariates. Calculated optimal price, predicted revenue on test set. Explored pricing models under capacity constraints by implementing Bellman equation to calculate prices over time
+
+## Homework 4 A/B Test Experimentation
+
+Implemeted a simple A/B test for click rate. Dealt with running experiments with low sample sizes and using bootstrap to get estimates. Explored the problem of Peeking and the advantages and common pitfalls.
+
+
